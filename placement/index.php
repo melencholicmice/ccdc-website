@@ -94,6 +94,21 @@
 				<div class="grid-con-2">
 					<?php include("panel.php"); ?>
 				</div>
+				<div class="grid-con-1" style="height: auto;">
+					<div class="grid-block">
+						<div class="index-intro-text" style="direction:ltr">
+							<div class="info-card-2">
+								<img src="images/image1.jpg">
+								<div>
+									<h1 style="font-size: 30px;">Why IIT Patna ?</h1>
+										<p class="frst-ltr">Indian Institute of Technology Patna stands as a beacon of excellence in the engineering landscape. With a remarkable NIRF 2023 ranking of 41st in Engineering and 66th Overall, alongside international recognition by QS World Rankings 2024, IIT Patna offers an unparalleled academic environment. Our tradition of innovation and academic excellence, coupled with a robust curriculum and a culture of overall development, ensures that our students are well-prepared to excel in both industry and academia. Join IIT Patna and become part of a community dedicated to shaping the future with excellence and innovation.
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
 				<div class="grid-con" style="height: auto;">
 					<div class="grid-block">
 						<div class="index-intro-text" style="direction:ltr">
