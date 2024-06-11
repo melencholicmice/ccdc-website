@@ -131,8 +131,16 @@
 									<h1 style="font-size: 30px;">Director's Message</h1>
 										<p class="frst-ltr">IIT Patna is trying its best to serve the nation by all possible means. In this respect, we aim to provide the industry with a technically high-quality employee pool that lends itself to the growth of various reputed organizations and contributes to our nation-building process. IIT Patna seeks to improve upon this goal every year, the latest developments being the addition of new courses and skill sets which has been designed keeping in view of the market demands and mandate of NEP,2020.
 									</p>
-									<a href="message.php">Read More</a>
+									
+
+									<p>IIT Patna invites the recruiters to the Campus Recruitment Programme and gives this batch of graduating students an opportunity to prove themselves and add value to the organisations they join.
+
+
+                                       </p>
+									   <a href="message.php">Read More</a>
+
 								</div>
+
 							</div>
 						</div>
 					</div>
