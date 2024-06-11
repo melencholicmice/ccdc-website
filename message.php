@@ -8,6 +8,7 @@
 
 					<div >
 						<p>
+							
 						<img src="images/fac/director.jpeg" style="float:right;margin:10px; width:300px; padding: 10px 10px 10px 10px; border-radius: 50%;">
 						IIT Patna is trying its best to serve the nation by all possible means. In this respect, we aim to provide the industry with a technically highquality employee pool that lends itself to the growth of various reputed organizations and contributes to our nation-building process. IIT Patna seeks to improve upon this goal every year, the latest developments being the addition of new courses and skill sets which has been designed keeping in view of the market demands and mandate of NEP,2020. What is also encouraging is the students’ participation in various technological, innovative ventures, and socio-cultural events in national and international events, considering the importance of these experiences in shaping up their personalities as individuals.
 						</p>
