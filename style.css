@@ -255,20 +255,20 @@ h2
 .full-head {
     background-color: #3041b5;
     color: #fff;
-    padding: 10px;
+    padding: 5px;
 }
 
 /* .container
 {
     width: 100%;
-    padding: 5px;
+    padding: 0;
     margin-right: 0;
     margin-left: 0;
 } */
 
 .navbar-brand {
-    width: 8%;
-    height: auto;
+    width: 9%;
+    height: 100%;
 }
 .hero-text>div {
     width: 100%;
@@ -353,9 +353,10 @@ h2
 @media only screen and (max-width: 768px) {
 
     /* CSS rules for phone screens */
-    .college-logo{
+    /* .college-logo{
         display: none;
-    }
+    } */
+     
 
     .mySlides>img {
         border: 2px solid saddlebrown;
@@ -417,12 +418,20 @@ h2
 }
 
 .college-logo img {
-    width: 100%;
-    height: auto;
+    width: 80%;
+    height: 80%;
 }
 
-.navbar {
+#navbar {
+    margin: 0;
     padding: 0;
+}
+
+#logo_a{
+    width: 6%;
+    height: 100%;
+    padding: 0;
+    text-align: center;
 }
 
 .navbar-toggler {
@@ -435,8 +444,25 @@ h2
     color: #fff;
 }
 
+#nav{
+    margin: 0;
+    padding: 0;
+}
+
+#nav-inside{
+    margin: 0rem 0.5rem;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .navbar-nav {
-    width: calc(100% - 80px);
+    width: calc(100%-10px);
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
 }
 
 #nav > ul > li > ul {
@@ -445,11 +471,71 @@ h2
 
 .nav-item {
     border-radius: 5px;
+    transition:all 0.15s ease-out;
 }
 
 .nav-item:hover {
-    padding: 0.125rem 0.25rem;
+    /* padding: 0.125rem 0.25rem; */
     background-color: #55aae3;
+}
+
+#reg-navbar{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.nav-item-register{
+    align-items: center;
+    appearance: none;
+    background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+
+    border: 0;
+    border-radius: 6px;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 3rem;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    padding-left: 0.18rem;
+    padding-right: 0.18rem;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 18px;
+}
+
+.nav-item-register:hover {
+    background-color: #0093E9;
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #f99dc8 0 -3px 0 inset;
+    transform: translateY(-2px);
+}
+
+.nav-item-register:hover a{
+    color: white;
+    text-decoration: none;
+}
+
+.reg-navbar-a{
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.nav-link{
+    text-align: center;
+    font-size: 16px;
 }
 
 .reg {
@@ -466,17 +552,20 @@ h2
 .navbar-nav a {
     text-decoration: none;
     font-family:'Times New Roman', Times, serif;
-    font-size: 20px;
+    padding: 0;
     color: #ffffff;
 }
 
-.navbar-nav a:hover {
+.navbar-nav .nav-item a:hover {
     color: #000000; /* Blend in hover color */
 }
 
 /* Custom styles for dropdowns */
 .navbar-nav .nav-item:hover .submenu {
-    display: block;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 0.5rem 0.25rem;
 }
 
 .submenu li {
@@ -502,7 +591,7 @@ h2
 }
 
 .submenu a:hover {
-    padding: 0.125rem 0.25rem;
+    /* padding: 0.125rem 0.25rem; */
     background-color: #55aae3;
     border-radius: 0.25rem;
 }
