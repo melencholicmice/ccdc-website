@@ -24,67 +24,77 @@
 	</head>
 	<body>
 	<div class="full-head" style="height: calc;">
-        <div class="container" style="margin-right: 0; margin-left: 0; width: 100%; max-width: 100%; height: auto;">
-            <nav class="navbar navbar-expand-lg" style="max-width: 100%;">
-                <a class="navbar-brand mr-auto" href="http://www.iitp.ac.in/placement/">
+        <div class="container" style="margin-right: 0; margin-left: 0; width: 100%; max-width: 100%; height: auto; padding:0rem 0.3rem;">
+            <nav class="navbar navbar-expand-lg" style="max-width: 100%;" id = "navbar">
+                <a href="http://www.iitp.ac.in/placement/" id = "logo_a">
                     <div class="college-logo">
                         <img src="images/iitp2.png" alt="Logo">
                     </div>
                 </a>
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#nav">
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#nav" >
                     <i class="fas fa-bars"></i>
                 </button>
-                <div class="collapse navbar-collapse ml-auto"   id="nav">
-                    <ul class="navbar-nav">
-                        <li class="nav-item" ><a class="nav-link" href="index.php"> Home </a></li>
-                        <li class="nav-item"  >
-                            <a class="nav-link">IIT Patna</a>
-                            <ul class="submenu">
-                                <li class="nav-item"><a class="nav-link" href="message.php">Director's Message</a></li>
-								<li class="nav-item"><a class="nav-link" href="PIC_message.php">PIC Message</a></li>
-                                <li class="nav-item"><a class="nav-link" href="https://academics.iitp.ac.in/">Academics</a></li>
-                                <li class="nav-item"><a class="nav-link" href="tour.php">Campus Tour</a></li>
-                                <li class="nav-item"><a class="nav-link" href="activities.php">Student Activities</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item"  >
-                            <a class="nav-link" href="procedure.php">Recruiters Corner</a>
-                            <ul class="submenu">
-                                <li class="nav-item"><a class="nav-link" href="fac.php">CCDC Facilities</a></li>
-                                <li class="nav-item"><a class="nav-link" href="procedure.php">Placement Procedure</a></li>
-                                <li class="nav-item"><a class="nav-link" href="downloads/files/TPC_Policy_for_recruiters.pdf">CCDC Policy for recruiters</a></li>
-                                <li class="nav-item"><a class="nav-link" href="Programmes.php">Academic Programmes and Brochures</a></li>
-                            </ul>
-                        </li>
-						<li class="nav-item"  >
-                        	<a class="nav-link" href="events.php">Training Events</a>
-						</li>
+                <div class="collapse navbar-collapse" id="nav">
+                    <div id = "nav-inside">
+						<ul class="navbar-nav">
+							<li class="nav-item" ><a class="nav-link" href="index.php"> Home </a></li>
+							<li class="nav-item"  >
+								<a class="nav-link">IIT Patna</a>
+								<ul class="submenu">
+									<li class="nav-item"><a class="nav-link" href="message.php">Director's Message</a></li>
+									<li class="nav-item"><a class="nav-link" href="PIC_message.php">PIC Message</a></li>
+									<li class="nav-item"><a class="nav-link" href="https://academics.iitp.ac.in/">Academics</a></li>
+									<li class="nav-item"><a class="nav-link" href="tour.php">Campus Tour</a></li>
+									<li class="nav-item"><a class="nav-link" href="activities.php">Student Activities</a></li>
+								</ul>
+							</li>
+							<li class="nav-item"  >
+								<a class="nav-link" href="procedure.php">Recruiters Corner</a>
+								<ul class="submenu">
+									<li class="nav-item"><a class="nav-link" href="fac.php">CCDC Facilities</a></li>
+									<li class="nav-item"><a class="nav-link" href="procedure.php">Placement Procedure</a></li>
+									<li class="nav-item"><a class="nav-link" href="downloads/files/TPC_Policy_for_recruiters.pdf">CCDC Policy for recruiters</a></li>
+									<li class="nav-item"><a class="nav-link" href="Programmes.php">Academic Programmes and Brochures</a></li>
+								</ul>
+							</li>
+							<li class="nav-item"  >
+								<a class="nav-link" href="events.php">Training Events</a>
+							</li>
 
-						<li class="nav-item"  >
-							<a class="nav-link" href="placementsumm.php">Placement Records</a>
-							<ul class="submenu">
-                                <li class="nav-item"><a class="nav-link" href="pastRec.php">Past Recruiters</a></li>
-                                <li class="nav-item"><a class="nav-link" href="placementsumm.php">Placement Statistics</a></li>
-                                <li class="nav-item"><a class="nav-link" href="trainingsumm.php">Internship recruiters</a></li>
-                            </ul>
-						</li>
-						<li class="nav-item"  >
-                        	<a class="nav-link" href="https://aipciits.com/">AIPC</a>
-							<ul class="submenu">
-                                <li class="nav-item"><a class="nav-link" href="https://aipciits.com/guidelines/">AIPC Guidlines</a></li>
-                            </ul>
-						</li>
-						<li class="nav-item"  >
-							<a class="nav-link" href="contactus.php">Contact Us</a>
-							<ul class="submenu">
-                                <li class="nav-item"><a class="nav-link" href="contactus.php">Representatives</a></li>
-                                <li class="nav-item"><a class="nav-link" href="howtoreach.php">Reaching IITP</a></li>
-                            </ul>
-						</li>
-						<!-- <li class="nav-item reg"  >
-							<a class="nav-link" href="https://forms.gle/7etN4RzVdqK9gHaT7">Register</a>
-						</li> -->
-                    </ul>
+							<li class="nav-item"  >
+								<a class="nav-link" href="placementsumm.php">Placement Records</a>
+								<ul class="submenu">
+									<li class="nav-item"><a class="nav-link" href="pastRec.php">Past Recruiters</a></li>
+									<li class="nav-item"><a class="nav-link" href="placementsumm.php">Placement Statistics</a></li>
+									<li class="nav-item"><a class="nav-link" href="trainingsumm.php">Internship recruiters</a></li>
+								</ul>
+							</li>
+							<li class="nav-item"  >
+								<a class="nav-link" href="https://aipciits.com/">AIPC</a>
+								<ul class="submenu">
+									<li class="nav-item"><a class="nav-link" href="https://aipciits.com/guidelines/">AIPC Guidlines</a></li>
+								</ul>
+							</li>
+							<li class="nav-item"  >
+								<a class="nav-link" href="contactus.php">Contact Us</a>
+								<ul class="submenu" >
+									<li class="nav-item"><a class="nav-link" href="contactus.php">Representatives</a></li>
+									<li class="nav-item"><a class="nav-link" href="howtoreach.php">Reaching IITP</a></li>
+								</ul>
+							</li>
+							<!-- <li class="nav-item reg"  >
+								<a class="nav-link" href="https://forms.gle/7etN4RzVdqK9gHaT7">Register</a>
+							</li> -->
+						</ul>
+						<ul class="navbar-nav" id="reg-navbar">
+							<li class="nav-item-register">
+								<a href="" class="reg-navbar-a">Register for FTE hiring</a>
+							</li>
+							<li class="nav-item-register">
+								<a href="" class="reg-navbar-a">Register for Intern hiring</a>
+							</li>
+						</ul>
+					</div>
                 </div>
             </nav>
         </div>
