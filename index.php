@@ -13,7 +13,7 @@
 		<div class="wrap" style="background: transparent;">
 			<div class="grid-container">
 
-				<div class="grid-block" style="width:90%; margin-right: auto; margin-left: auto;">
+				<div class="grid-block" style="width:90%; margin-right: auto; margin-left: auto; margin-block: 30px;">
 					<div class="home-carousel">
 						<div class="slideshow-container">
 

@@ -49,7 +49,7 @@
 		<li style="width:20px;">
 		<div class="fb-like" style="float:right;" data-href="https://www.facebook.com/iitpatna.tpc" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"></div>
 		</li>
-		<div style="float: right; right:40px; left: auto; margin-right: 20px; color: aliceblue;">
+		<div style="float: right; right:40px; left: auto; margin-right: 20px; color: aliceblue; position: absolute; bottom: 66px;">
 		<p style="color: whitesmoke"><b>Address</b><br />
 		Centre for Career Development<br /> and Councelling,<br />
 		IIT Patna, Bihta Campus,<br />
