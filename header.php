@@ -44,7 +44,8 @@
 								<li class="nav-item"><a class="nav-link" href="PIC_message.php">PIC Message</a></li>
                                 <li class="nav-item"><a class="nav-link" href="https://academics.iitp.ac.in/">Academics</a></li>
                                 <li class="nav-item"><a class="nav-link" href="tour.php">Campus Tour</a></li>
-                                <li class="nav-item"><a class="nav-link" href="activities.php">Student Activities</a></li>
+                                <li class="nav-item"><a class="nav-link" href="https://www.iitp.ac.in/gymkhana/">Student Activities</a></li>
+                                
                             </ul>
                         </li>
                         <li class="nav-item"  >
