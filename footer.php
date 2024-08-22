@@ -8,7 +8,7 @@
 			<!-- <li><a href="acadtieups.php">Academic Tieups</a></li> -->
 			<li><a href="tour.php">Campus Tour</a></li>
 			<li><a href="activities.php">Activities</a></li>
-			<li><a href="https://iitp.ac.in/placement/">Old Websitr</a></li>
+			<li><a href="https://iitp.ac.in/placement/">Old Website</a></li>
 		</ul>
 		</li>
 		<li><a href="procedure.php">For Recruiters</a>
