@@ -1925,6 +1925,23 @@ h4 {
 .footer-links {
     padding-top: 50px;
     padding-left: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer-address{
+    margin-right: 50px;
+}
+
+@media (max-width: 990px) {
+    .footer-links {
+        flex-direction: column;
+    }
+    .footer-links > div > div{
+        margin-top:12px;
+        padding: none;
+    }
 }
 
 .footer-links>ul {

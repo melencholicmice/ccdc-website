@@ -19,19 +19,6 @@
 			<li><a href="fac.php">Facilities</a></li>
 		</ul>
 		</li>
-		<!-- <li><a href="http://www.iitp.ac.in/index.php/academics/programmes/undergraduate/undergraduate.html">Academics (UG)</a>
-			<ul>
-			<li><a href="http://www.iitp.ac.in/index.php/academics/programmes/undergraduate/undergraduate.html">Departments</a></li>
-			<li><a href="http://www.iitp.ac.in/index.php/academics/programmes/undergraduate/course-curriculum.html">Course Curriculum</a></li>
-			<li><a href="http://www.iitp.ac.in/index.php/academics/programmes/undergraduate/syllabus.html">Syllabus</a></li>
-			</ul>
-		</li>
-		<li><a href="http://www.iitp.ac.in/index.php/academics/programmes/mtech-postgraduate/mtech-programme-overview.html">Academics (PG)</a>
-			<ul>
-			<li><a href="http://www.iitp.ac.in/index.php/academics/programmes/mtech-postgraduate/mtech-programme-overview.html">Departments</a></li>
-			<li><a href="http://www.iitp.ac.in/index.php/academics/programmes/mtech-postgraduate/course-curriculum.html">Course Curriculum</a></li>
-			</ul>
-		</li> -->
 		<li><a href="pastRec.php">CCDC Summary</a>
 
 		<ul>
@@ -49,7 +36,10 @@
 		<li style="width:20px;">
 		<div class="fb-like" style="float:right;" data-href="https://www.facebook.com/iitpatna.tpc" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"></div>
 		</li>
-		<div style="float: right; right:40px; left: auto; margin-right: 20px; color: aliceblue; position: absolute; bottom: 66px;">
+		
+	</ul>
+	<div class="footer-address">
+		<div>
 		<p style="color: whitesmoke"><b>Address</b><br />
 		Centre for Career Development<br /> and Councelling,<br />
 		IIT Patna, Bihta Campus,<br />
@@ -58,7 +48,7 @@
 		</p>
 		<hr />
 		</div>
-	</ul>
+	</div>
 	
 </div>
 <div class="footer-copy">
@@ -67,3 +57,17 @@
 </div>
 </body>
 </html>
+
+<!-- <li><a href="http://www.iitp.ac.in/index.php/academics/programmes/undergraduate/undergraduate.html">Academics (UG)</a>
+			<ul>
+			<li><a href="http://www.iitp.ac.in/index.php/academics/programmes/undergraduate/undergraduate.html">Departments</a></li>
+			<li><a href="http://www.iitp.ac.in/index.php/academics/programmes/undergraduate/course-curriculum.html">Course Curriculum</a></li>
+			<li><a href="http://www.iitp.ac.in/index.php/academics/programmes/undergraduate/syllabus.html">Syllabus</a></li>
+			</ul>
+		</li>
+		<li><a href="http://www.iitp.ac.in/index.php/academics/programmes/mtech-postgraduate/mtech-programme-overview.html">Academics (PG)</a>
+			<ul>
+			<li><a href="http://www.iitp.ac.in/index.php/academics/programmes/mtech-postgraduate/mtech-programme-overview.html">Departments</a></li>
+			<li><a href="http://www.iitp.ac.in/index.php/academics/programmes/mtech-postgraduate/course-curriculum.html">Course Curriculum</a></li>
+			</ul>
+		</li> -->
