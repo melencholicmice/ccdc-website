@@ -87,12 +87,12 @@
 							</li> -->
 						</ul>
 						<ul class="navbar-nav" id="reg-navbar">
-							<li class="nav-item-register">
+							<button class="btn btn-info" style="background-color: #000s; color: #000;">
 								<a href="https://docs.google.com/forms/d/e/1FAIpQLSeS_9yWJxpWWTHvs-MnD_mMd07rcyLwC9anuSB4E31-RA7VQw/viewform?vc=0&c=0&w=1&flr=0" class="reg-navbar-a" target="_blank">Register for FTE hiring</a>
-							</li>
-							<li class="nav-item-register">
+							</button>
+							<button class="btn btn-info">
 								<a href="https://docs.google.com/forms/d/e/1FAIpQLSdK74kAg2ZWfsodJxci6TbKAxIalCi8WHRmcuaKkvJH87k59A/viewform?vc=0&c=0&w=1&flr=0" class="reg-navbar-a" target="_blank">Register for Intern hiring</a>
-							</li>
+							</button>
 						</ul>
 					</div>
                 </div>
