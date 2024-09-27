@@ -4,7 +4,8 @@
 			<div>
 					<div>
 					<h1>Centre For Career Development and Counselling</h1>
-						<h1>Indian Institute of Technology Patna</h1>
+					<h1>Indian Institute of Technology Patna</h1>
+					<h3><i>(formerly Training and Placement Cell)</i></h3>
 					</div>
 			</div>
 		</div>
@@ -115,7 +116,7 @@
 							<div class="info-card">
 								<img src="images/slider/p10.jpg" >
 								<div>
-									<p class="frst-ltr" style="text-align:justify">The Centre for Career Development and councelling (CCDC) at IIT Patna focuses on holistic career development beyond job placements. CCDC offers career guidance, industry interactions, training, placement support, and data management. We conduct seminars, counseling, and peer groups for career exploration. CCD facilitates webinars, corporate visits, and MoUs for internships and jobs. Workshops, competitions, and skill development enhance employability. As intermediaries, we manage the placement process and ensure fairness.</p>
+									<p class="frst-ltr" style="text-align:justify">The Centre for Career Development and councelling (CCDC, formerly TPC) at IIT Patna focuses on holistic career development beyond job placements. CCDC offers career guidance, industry interactions, training, placement support, and data management. We conduct seminars, counseling, and peer groups for career exploration. CCD facilitates webinars, corporate visits, and MoUs for internships and jobs. Workshops, competitions, and skill development enhance employability. As intermediaries, we manage the placement process and ensure fairness.</p>
 									<p style="text-align:justify">CCDC envisions empowering students for successful careers through guidance and opportunities.With a dedicated team, CCDC strives to create a supportive environment where students can unlock their full potential and achieve their career goals. Through continuous improvement and collaboration with stakeholders, CCDC is committed to shaping the future of our students at IIT Patna.</p>
 								</div>
 							</div>

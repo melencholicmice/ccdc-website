@@ -58,11 +58,11 @@
 								</ul>
 							</li>
 							<li class="nav-item"  >
-								<a class="nav-link" href="events.php">Training Events</a>
+								<a class="nav-link" href="events.php">Events</a>
 							</li>
 
 							<li class="nav-item"  >
-								<a class="nav-link" href="placementsumm.php">Placement Records</a>
+								<a class="nav-link" href="placementsumm.php">Statistics</a>
 								<ul class="submenu">
 									<li class="nav-item"><a class="nav-link" href="pastRec.php">Past Recruiters</a></li>
 									<li class="nav-item"><a class="nav-link" href="placementsumm.php">Placement Statistics</a></li>
@@ -78,8 +78,8 @@
 							<li class="nav-item"  >
 								<a class="nav-link" href="contactus.php">Contact Us</a>
 								<ul class="submenu" >
-									<li class="nav-item"><a class="nav-link" href="contactus.php">Representatives</a></li>
 									<li class="nav-item"><a class="nav-link" href="howtoreach.php">Reaching IITP</a></li>
+									<li class="nav-item"><a class="nav-link" href="contactus.php">Our Team</a></li>
 								</ul>
 							</li>
 							<!-- <li class="nav-item reg"  >
