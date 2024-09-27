@@ -4,8 +4,8 @@
 			<div>
 					<div>
 					<h1>Centre For Career Development and Counselling</h1>
-					<h1>Indian Institute of Technology Patna</h1>
 					<h3><i>(formerly Training and Placement Cell)</i></h3>
+					<h1>Indian Institute of Technology Patna</h1>
 					</div>
 			</div>
 		</div>

@@ -2,7 +2,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-12">
-			<h1 class="display-4 mb-4">CCDC Office</h1>
+			<h1 class="display-4 my-4 d-flex justify-content-center">CCDC Office</h1>
 			<p class="lead">The Centre for Career Development and Counselling (CCDC) at IIT Patna is responsible for managing all aspects of placements for graduating students across all departments. Our dedicated team of Training and Placement Cell officials and volunteers provide comprehensive support to recruiters, including company outreach, logistics coordination for assessments, pre-placement presentations, and final interviews.</p>
 			<p>We welcome interested companies to contact us directly using the information provided below. Our office can be reached at address given below</p>
 			<div class="d-flex justify-content-center">
@@ -26,7 +26,7 @@
 				<div class="card mb-4 w-75 mx-auto">
 					<div class="card-body">
 						<h3 class="card-title text-center fw-bold">How to Reach Us</h3>
-						<p class="card-text text-center">
+						<p class="card-text text-left">
 							<strong>By Rail:</strong><br>
 							Patna junction (PNBE) is well-connected. Take a taxi or auto-rickshaw to IIT Patna (30-40 minutes away).<br><br>
 							<strong>By Air:</strong><br>
