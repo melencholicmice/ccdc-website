@@ -30,7 +30,7 @@
 						<div class="panel-content">
 							<!-- :NOTE: need to configure this properly for server  -->
 							<p><a href="/pastRec.php" target="_blank">Past Recruiters <img src="downloads/new.gif" /></a></p>
-							<p><a href="/placement/downloads/Placement Brochure 23-24.pdf" target="_blank">Placements Brochure 2024-25<img src="downloads/new.gif" /></a></p>
+							<p><a href="https://drive.google.com/file/d/1wCIT2HoGK-JkP4O-SnIbCXxISWpY2UXi/view" target="_blank">Placements Brochure 2024-25<img src="downloads/new.gif" /></a></p>
 							<p><a href="Programmes.php" target="_blank">Branch-wise Brochure 2024-25</a></p>
 						</div>
 					</div>

@@ -18,8 +18,13 @@
 							</tr>
 							<tr>
 								<td style="text-align:center; vertical-align:top">1</td>
+								<td style="vertical-align:top">Artificial intelligence and Data Science</td>
+								<td style="vertical-align:top; text-align:center;"><a href="https://drive.google.com/file/d/1tgWmpGNkAARaH2-SbeKyIb0980tLnogX/view?usp=drive_link" target="_blank">Download</a></td>
+							</tr>
+							<tr>
+								<td style="text-align:center; vertical-align:top">1</td>
 								<td style="vertical-align:top">Chemical Engineering</td>
-								<td style="vertical-align:top; text-align:center;"><a href="downloads/B.Tech_Brochure/2022-23/B.Tech_Chemical_2022-23.pdf" target="_blank">Download</a></td>
+								<td style="vertical-align:top; text-align:center;"><a href="https://drive.google.com/file/d/1_KKHnwVJV5x90vDt2o_BMrlTtTXa8ZYl/view?usp=drive_link" target="_blank">Download</a></td>
 							</tr>
 							<tr>
 								<td style="text-align:center; vertical-align:top">2</td>
@@ -29,22 +34,33 @@
 							<tr>
 								<td style="text-align:center; vertical-align:top">3</td>
 								<td style="vertical-align:top">Computer Science&nbsp; and Engineering</td>
-								<td style="vertical-align:top; text-align:center;"><a href="downloads/B.Tech_Brochure/2022-23/B.Tech_CSE_2022-23.pdf" target="_blank">Download</a></td>
+								<td style="vertical-align:top; text-align:center;"><a href="https://drive.google.com/file/d/1fX9rXjqUvbN2l01dbDC68mRNu1mD1rv3/view?usp=drive_link" target="_blank">Download</a></td>
 							</tr>
 							<tr>
 								<td style="text-align:center; vertical-align:top">4</td>
 								<td style="vertical-align:top">Electrical Engineering</td>
-								<td style="vertical-align:top; text-align:center;"><a href="downloads/B.Tech_Brochure/2022-23/B.Tech_EE_2022-23.pdf" target="_blank">Download</a></td>
+								<td style="vertical-align:top; text-align:center;"><a href="https://drive.google.com/file/d/1oMSeWoyr-INe5Dnxppf-al4iZRMGV05l/view?usp=drive_link" target="_blank">Download</a></td>
+							</tr>
+							<!--  -->
+							<tr>
+								<td style="text-align:center; vertical-align:top">4</td>
+								<td style="vertical-align:top">Engineering Physics</td>
+								<td style="vertical-align:top; text-align:center;"><a href="https://drive.google.com/file/d/1oIGWHj0cHeqfsBAllhAjePsj3xXMglXX/view?usp=drive_link" target="_blank">Download</a></td>
+							</tr>
+							<tr>
+								<td style="text-align:center; vertical-align:top">4</td>
+								<td style="vertical-align:top">Mathematics and Computing</td>
+								<td style="vertical-align:top; text-align:center;"><a href="https://drive.google.com/file/d/1JP4C3OWoPn4TXtMuYPd2Hw5pHH86lNVO/view?usp=drive_link" target="_blank">Download</a></td>
 							</tr>
 							<tr>
 								<td style="text-align:center; vertical-align:top">5</td>
 								<td style="vertical-align:top">Mechanical Engineering</td>
-								<td style="vertical-align:top; text-align:center;"><a href="downloads/B.Tech_Brochure/2022-23/B.Tech_ME_2022-23.pdf" target="_blank">Download</a></td>
+								<td style="vertical-align:top; text-align:center;"><a href="https://drive.google.com/file/d/1Wvg8V586iESVPKxMT5sSTTCV5RYcqY25/view?usp=drive_link" target="_blank">Download</a></td>
 							</tr>
 							<tr>
 								<td style="text-align:center; vertical-align:top">6</td>
 								<td style="vertical-align:top">Metallurgical and Materials Engineering</td>
-								<td style="vertical-align:top; text-align:center;"><a href="downloads/B.Tech_Brochure/2022-23/B.Tech_MME_2022-23.pdf" target="_blank">Download</a></td>
+								<td style="vertical-align:top; text-align:center;"><a href="https://drive.google.com/file/d/1xnI8OIFEU7c1A3kHIHOUbhSVQdRFDKuL/view?usp=drive_link" target="_blank">Download</a></td>
 							</tr>
 						</tbody>
 					</table>
