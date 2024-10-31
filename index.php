@@ -19,7 +19,7 @@
 						<div class="slideshow-container">
 
 							<div class="mySlides fade">
-								<img src="images/slider/slider-1.png" style="width:100%">
+								<img src="images/slider/slider-1.jpeg" style="width:100%">
 								<!-- <div class="captext">Caption Text</div> -->
 							</div>
 
