@@ -1,0 +1,5 @@
+RewriteEngine On
+#RewriteCond %{HTTP_HOST} ^olddomain.com$ [OR]
+#RewriteCond %{HTTP_HOST} ^www.olddomain.com$
+#RewriteRule (.*)$ http://www.newdomain.com/$1 [R=301,L]
+Redirect 301 /placement https://ccdc.iitp.ac.in
