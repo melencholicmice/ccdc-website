@@ -86,14 +86,32 @@
 								<a class="nav-link" href="https://forms.gle/7etN4RzVdqK9gHaT7">Register</a>
 							</li> -->
 						</ul>
-						<ul class="navbar-nav" id="reg-navbar">
-							<button class="btn btn-info" style="background-color: #000s; color: #000;">
+						<ul class="navbar-nav" id="reg-navbar" style="margin-left: 20px;">
+							<button class="btn btn-info blink-button" style="background-color: #000s; color: #000;">
 								<a href="https://docs.google.com/forms/d/e/1FAIpQLSeS_9yWJxpWWTHvs-MnD_mMd07rcyLwC9anuSB4E31-RA7VQw/viewform?vc=0&c=0&w=1&flr=0" class="reg-navbar-a" target="_blank">Register for FTE hiring</a>
 							</button>
-							<button class="btn btn-info">
-								<a href="https://docs.google.com/forms/d/e/1FAIpQLSdK74kAg2ZWfsodJxci6TbKAxIalCi8WHRmcuaKkvJH87k59A/viewform?vc=0&c=0&w=1&flr=0" class="reg-navbar-a" target="_blank">Register for Intern hiring</a>
+							<button class="btn btn-info blink-button">
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSdK74kAg2ZWfsodJxci6TbKAxIalCi8WHRmcuaKkvJH87k59A/viewform?vc=0&c=0&w=1&flr=0" class="reg-navbar-a" target="_blank">Register for Intern hiring</a>
 							</button>
-						</ul>
+						</ul>						<!-- Blink effect for the button -->
+						<style>
+							.blink-button {
+								animation: blink 1.5s linear infinite;
+								box-shadow: 0 0 8px #4d79ff, 0 0 15px #4d79ff, 0 0 25px #4d79ff;
+								transition: all 0.3s ease;
+							}
+
+							.blink-button:hover {
+								transform: scale(1.05);
+								box-shadow: 0 0 12px #4d79ff, 0 0 20px #4d79ff, 0 0 30px #4d79ff;
+							}
+
+							@keyframes blink {
+								0% { opacity: 1; box-shadow: 0 0 8px #4d79ff, 0 0 15px #4d79ff, 0 0 25px #4d79ff; }
+								50% { opacity: 0.7; box-shadow: 0 0 12px #4d79ff, 0 0 20px #4d79ff, 0 0 30px #4d79ff; }
+								100% { opacity: 1; box-shadow: 0 0 8px #4d79ff, 0 0 15px #4d79ff, 0 0 25px #4d79ff; }
+							}
+						</style>					
 					</div>
                 </div>
             </nav>
